@@ -4,3 +4,5 @@
 ## tamaño peq
 ## otro cambio
 este cambio es para funcionar rama-2
+## conflicto dos
+se funciono la rama

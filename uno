@@ -1,13 +1,13 @@
-este es otra rama
+rama diferente
 
--cambio 1
-commit primero 1
+-final cambio
+commit nuevo 1
 
--cambio 2
-commit segundo 2
+-final cambio dos
+commit nuevo 2
 
--cambio 3
-commit tercer 3
+-final cambio tres
+commit nuevo 3
 
 -archivo cinco
 cinco 5
@@ -16,3 +16,5 @@ cinco 5
 seis 6
 -cambio 4
 commit cualto 4
+-final cambio cuatro
+commit nuevo 4
