@@ -1,17 +1,18 @@
-este es el primer archivo
-uno 1
+este es otra rama
 
-- archivo nuevo
-dos 2
+-cambio 1
+commit primero 1
 
-- archivo tres 
-tres 3
+-cambio 2
+commit segundo 2
 
--archivo cuatro
-cuatro 4
+-cambio 3
+commit tercer 3
 
 -archivo cinco
 cinco 5
 
 -archivo seis 
 seis 6
+-cambio 4
+commit cualto 4
